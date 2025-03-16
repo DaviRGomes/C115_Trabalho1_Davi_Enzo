@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Qual é a capital da Itália?",
+        "options": ["Roma", "Paris", "Lisboa", "Londres"],
+        "correct_answer": "Roma"
+    },
+    {
+        "question": "Qual é o maior planeta do sistema solar?",
+        "options": ["Terra", "Júpiter", "Marte", "Saturno"],
+        "correct_answer": "Júpiter"
+    },
+    {
+        "question": "Quem escreveu 'Dom Quixote'?",
+        "options": ["Miguel de Cervantes", "William Shakespeare", "Machado de Assis", "Gabriel García Márquez"],
+        "correct_answer": "Miguel de Cervantes"
+    }
+]
