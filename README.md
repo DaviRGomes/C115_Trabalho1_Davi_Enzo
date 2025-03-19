@@ -70,7 +70,10 @@ O cliente receberá as perguntas do servidor e permitirá ao usuário responder.
 ]
 ```
 
-## Autor
+## Autores
 
-Projeto desenvolvido por Davi Rosa Gomes e Enzo Augusto do Couto
+### Davi Rosa - [GitHub](https://github.com/DaviRGomes)  
+
+### Enzo Couto -
+
 
